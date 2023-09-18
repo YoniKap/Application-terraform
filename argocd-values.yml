@@ -1,0 +1,9 @@
+# controller:
+#   adminPassword: admin
+#   adminUser: admin
+
+# server:
+#   ingress:
+#     enabled: true
+#     hosts:
+#       - argocd.example.com
